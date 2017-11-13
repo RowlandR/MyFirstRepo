@@ -1,3 +1,7 @@
+import time
+
+
+
 ### MAD LIBS ### 
 ### Ask Questions Here ###
 
@@ -46,3 +50,8 @@ print("They also really enjoy " + kk + " with you.")
 
 
 ### Tell the MadLib ###
+
+
+
+
+time.sleep(100)
